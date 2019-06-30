@@ -3,7 +3,7 @@ body {
 }
 
 #icon {
-  position: absolute;
+  position: fixed;
   top:0;
   left: 0;
   right: 0;
@@ -14,4 +14,20 @@ body {
   height:auto;
   max-width: 250px;
   max-height: 250px;
+}
+
+#graff {
+  position: fixed;
+  top: 75%;
+  left: 80%;
+  right: 0;
+  bottom: 0;
+  margin:auto;
+  display: inline-block;
+  width:auto;
+  height:auto;
+  max-width: 200px;
+  max-height: 200px;
+  z-index: -100;
+  filter: brightness(20%) sepia(100) saturate(100) hue-rotate(25deg);
 }
