@@ -2,6 +2,11 @@ body {
 	background-color: black;
 }
 
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
 #icon {
   position: fixed;
   top:0;

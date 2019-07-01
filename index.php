@@ -8,6 +8,6 @@
 	</head>
 	<body>
 		<img id="icon" src="./icon.png">
-		<img id="graff" src="./graff.png">
+		<img id="graff-<?php echo rand(0,360) ?>" src="./graff.png">
 	</body>
 </html>
