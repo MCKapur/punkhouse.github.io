@@ -34,5 +34,4 @@ html, body {
   width: 200px;
   height: 200px;
   z-index: -100;
-  filter: brightness(20%) sepia(100) saturate(100) hue-rotate(25deg);
 }
