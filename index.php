@@ -8,6 +8,5 @@
 	</head>
 	<body>
 		<img id="icon" src="./icon.png">
-		<img id="graff" src="./graff.png">
 	</body>
 </html>
