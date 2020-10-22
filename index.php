@@ -7,6 +7,6 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 	</head>
 	<body>
-		<img id="portfolio" src="./portfolio.png" srcset="./portfolio@2x.png 2x, ./portfolio@3x.png 3x">
+		<img id="portfolio" src="./portfolio.png">
 	</body>
 </html>
