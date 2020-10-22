@@ -1,37 +1,16 @@
 body {
-	background-color: black;
+	background-color: #222122;
+  padding: 0;
+  margin: 0;
 }
 
-html, body {
-  height: 100%;
-  overflow: hidden;
-}
-
-#icon {
-  position: fixed;
-  top:0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin:auto;
-  display: inline-block;
-  width:auto;
-  height:auto;
-  max-width: 250px;
-  max-height: 250px;
-}
-
-#graff {
-  position: fixed;
-  top: 75%;
-  left: 80%;
-  right: 0;
-  bottom: 0;
-  margin:auto;
-  display: inline-block;
-  width:auto;
-  height:auto;
-  width: 200px;
-  height: 160px;
-  z-index: -100;
+#portfolio {
+  width: 95%;
+  max-width: 800px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  height: auto !important;
 }
