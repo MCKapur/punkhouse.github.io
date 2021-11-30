@@ -1,5 +1,6 @@
 <html>
-	<head>
+	<COMING SOON>
+<!-- 	<head>
 		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="index.css" media="screen"/>
 		<title>punk house</title>
@@ -8,5 +9,5 @@
 	</head>
 	<body>
 		<img id="portfolio" src="./portfolio.png">
-	</body>
+	</body> -->
 </html>
