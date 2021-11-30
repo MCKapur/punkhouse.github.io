@@ -1,5 +1,5 @@
 <html>
-	<COMING SOON>
+	<p>_COMING SOON_</p>
 <!-- 	<head>
 		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="index.css" media="screen"/>
